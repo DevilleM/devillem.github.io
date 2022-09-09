@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.linkcy",
+      "sha256_cert_fingerprints": [
+        "0E:0D:8D:C8:BB:C4:15:1A:83:08:33:B2:B7:7F:84:3D:EE:5C:6E:BE:4F:A7:18:E4:C4:FA:B3:60:A0:A9:9D:09"
+      ]
+    }
+  }
+]
