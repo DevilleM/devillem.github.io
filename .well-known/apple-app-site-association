@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "HN3AXTKVF8.io.whitelabel.linkcy.app.mobile",
-        "paths": ["/opt"]
+        "paths": ["*"]
       }
     ]
   }
